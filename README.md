@@ -42,31 +42,37 @@ NB: Make sure dependencies are installed for the project.
 
 - Login Page:
 
-[![This is an image](src/screenshot/login.png)](https://github.com/Radheshyam2059/Airlines-Management-System/blob/main/front.jpg)
+<img width="1244" height="700" alt="image" src="https://github.com/user-attachments/assets/c9afcf40-7a6c-47ba-871f-36807cde5b26" />
+
 
 - Airline Management System Dashboard:
 
-![This is an image](src/screenshot/dashboard.png)
+<img width="1228" height="724" alt="image" src="https://github.com/user-attachments/assets/dc3a8ca0-b7eb-47e9-b820-f72ba947daaa" />
+
 
 - Add Customer Page:
 
-![This is an image](src/screenshot/add_customer.png)
+<img width="1254" height="732" alt="image" src="https://github.com/user-attachments/assets/a01c617b-276b-49a9-9403-f9e2c0ffab99" />
+
 
 - Cancel Flight Page:
 
-![This is an image](src/screenshot/cancel.png)
+<img width="1233" height="711" alt="image" src="https://github.com/user-attachments/assets/6b254bb5-48e8-4d9d-932d-82c8c3403fc0" />
+
 
 - Flight Information Page:
 
-![This is an image](src/screenshot/flight_info.png)
+<img width="1227" height="784" alt="image" src="https://github.com/user-attachments/assets/ec74adfc-cacf-431e-a895-4025b1926400" />
+
 
 - Journey Details Page:
 
-![This is an image](src/screenshot/journey_details.png)
+<img width="1184" height="702" alt="image" src="https://github.com/user-attachments/assets/b4ad3a38-47e6-4fc4-8d1c-68aab7f51363" />
 
 - Flight Payment Page:
 
-![This is an image](src/screenshot/payment.png)
+<img width="1229" height="755" alt="image" src="https://github.com/user-attachments/assets/4a764c22-d268-402a-a78d-506395a19790" />
+
 
 
 
