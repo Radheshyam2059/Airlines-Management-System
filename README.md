@@ -19,21 +19,7 @@ Airline Management System is a desktop-based application that allows a user to a
   
 - rs2xml.jar
 
-## 4. Installation:
-
-i. Clone the git repo
-
-```
-https://github.com/AAdewunmi/Airline-Management-System.git
-```
-
-ii. Open project folder
-
-iii. Explore
-
-😎
-
-## 5. How To Use:
+## 4. How To Use:
 
 i. Create Database and Tables (src/airline/mysql_commands.txt)
 
@@ -52,11 +38,11 @@ iv. Log in
 NB: Make sure dependencies are installed for the project.
 ```
 
-## 6. Demo
+## 5. Demo
 
 - Login Page:
 
-![This is an image](src/screenshot/login.png)
+[![This is an image](src/screenshot/login.png)](https://github.com/Radheshyam2059/Airlines-Management-System/blob/main/front.jpg)
 
 - Airline Management System Dashboard:
 
